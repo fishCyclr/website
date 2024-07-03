@@ -1,0 +1,47 @@
+baseURL = 'https://www.fishcyclr.com/'
+languageCode = 'en-us'
+title = 'Charting the Course of Curiosity'
+theme = 'anatole'
+
+[params]
+    author = 'Fish Cyclr'
+    description = 'Charting the Course of Curiosity: Tech, Music, Cycling, and the Human Experience—Every Turn a New Discovery.'
+    profilePicture = 'img/croppedFish.png'
+    title = 'Fish Cyclr'
+    displayMode = 'dark'
+
+    [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "X-Twitter"
+    url = "https://x.com/FishCyclr"
+
+    [[params.socialIcons]]
+    icon = "fab fa-youtube"
+    title = "YouTube"
+    url = "https://www.youtube.com/@fishcyclr"
+
+    [[params.socialIcons]]
+    icon = "fab fa-mastodon"
+    title = "Mastodon"
+    url = "https://mastodon.social/@fishcyclr"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "The Channel"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "The Author"
+  weight = 200
+  identifier = "author"
+  url = "/author/"
+
+  [[menu.main]]
+  name = "Buy Me a Coffee"
+  weight = 300
+  identifier = "posts"
+  url = "https://buymeacoffee.com/fishcyclr"
