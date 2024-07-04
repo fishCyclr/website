@@ -20,12 +20,6 @@ theme = 'anatole'
     title = "YouTube"
     url = "https://www.youtube.com/@fishcyclr"
 
-    [[params.socialIcons]]
-    icon = "fab fa-mastodon"
-    title = "Mastodon"
-    url = "https://mastodon.social/@fishcyclr"
-
-
 [menu]
 
   [[menu.main]]
