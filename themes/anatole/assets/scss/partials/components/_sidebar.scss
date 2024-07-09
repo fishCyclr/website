@@ -56,9 +56,9 @@
     }
 
     &-profileimage {
-      max-width: 45%;
-      max-height: 45%;
       border-radius: 0%;
+      width:100%;
+      max-width:152px;
     }
 
     &-title {
