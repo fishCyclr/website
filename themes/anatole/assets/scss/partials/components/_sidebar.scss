@@ -1,5 +1,5 @@
 .sidebar {
-  margin-top: 20px;
+  margin-top: 40px;
 
   @include desktop {
     z-index: 2;
@@ -52,11 +52,12 @@
 
     &-description {
       margin: 0 1em;
+      font-size: 1.38rem;
     }
 
     &-profileimage {
-      max-width: 50%;
-      max-height: 50%;
+      max-width: 45%;
+      max-height: 45%;
       border-radius: 0%;
     }
 
@@ -68,7 +69,7 @@
       margin: 1em;
 
       a {
-        font-size: 3.2rem;
+        font-size: 2.2rem;
       }
     }
   }
