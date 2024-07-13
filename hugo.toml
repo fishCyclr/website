@@ -5,7 +5,7 @@ theme = 'anatole'
 
 [params]
     author = 'Fish Cyclr'
-    description = 'Charting the Course of Curiosity: Tech, Music, Cycling, and the Human Experience—Every Turn a New Discovery.'
+    description = 'Tech, Music, Cycling, and the Human Experience—Every Turn a New Discovery.'
     profilePicture = 'img/croppedFish.png'
     title = 'Fish Cyclr'
     displayMode = 'dark'
