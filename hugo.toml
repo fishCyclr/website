@@ -11,7 +11,7 @@ theme = 'anatole'
     displayMode = 'dark'
 
     [[params.socialIcons]]
-    icon = "fab fa-envelope"
+    icon = "fa-solid fa-envelope"
     title = "Email"
     url = "mailto:fish@fishcyclr.com"
 
