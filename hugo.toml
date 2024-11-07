@@ -11,9 +11,9 @@ theme = 'anatole'
     displayMode = 'dark'
 
     [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "X-Twitter"
-    url = "https://x.com/FishCyclr"
+    icon = "fab fa-envelope"
+    title = "Email"
+    url = "mailto:fish@fishcyclr.com"
 
     [[params.socialIcons]]
     icon = "fab fa-youtube"
